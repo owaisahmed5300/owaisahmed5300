@@ -7,7 +7,7 @@ My focus is on writing clean, maintainable code that scales well and performs ef
 
 ### Skills
 
-- **Frontend:** HTML, CSS/SCSS, Bootstrap/Tailwind CSS, Vite, TypeScript, React
+- **Frontend:** HTML, CSS/SCSS, Bootstrap/Tailwind CSS, JavaScript, TypeScript, React
 - **Backend:** PHP, MySQL, Laravel, WordPress (themes, plugins, sites)  
 
 ---
